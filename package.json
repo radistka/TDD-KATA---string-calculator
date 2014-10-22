@@ -1,0 +1,14 @@
+{
+  "name": "testing-node-with-mocha",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "chai": "~1.4.2",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
